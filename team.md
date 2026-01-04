@@ -16,7 +16,6 @@ Click on the photos to see the research profiles
 | **Kalayu Mruts** <br/> <a href="https://scholar.google.com/citations?user=Fblf86IAAAAJ&hl=en&oi=ao"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Fblf86IAAAAJ&citpid=2" width="300" alt="Kalayu Mruts"></a> | PhD Candidate  | Family planning in Ethiopia |
 | **Lydia Kaforau** <br/> <a href="https://scholar.google.com/citations?user=0Ec5MjkAAAAJ&hl=en&oi=ao"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0Ec5MjkAAAAJ&citpid=9" width="300" alt="Lydia Kaforau"></a> | PhD Candidate  | Perinatal mortality and morbidity in the Pacific Islands |
 | **Dr Kingsley Wong** <br/> <a href="https://scholar.google.com/citations?user=ER0sUxwAAAAJ&hl=en&oi=ao"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ER0sUxwAAAAJ&citpid=1" width="300" alt="Kingsley Wong"></a> | PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
-
 | **Tsegaye Haile** <br/> <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4Kr7YcUOuOhH9ts9im3bvruXe5DYYhsKlJzb7DNYuSSnEkZOdaUaMu8UJVKwlTdPzvT2uW5Mtq2Q5Ww1nOtptY6cryTg&user=C1ZU3usAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=C1ZU3usAAAAJ&citpid=1" width="300" alt="Tsegaye Haile"></a> | PhD Candidate  | Incidence and costs associated with of adverse perinatal outcomes in Australia |
 | **Kendalem Asmare** <br/> <a href="https://scholar.google.com/citations?user=mdDCV0QAAAAJ&hl=en&oi=ao"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=mdDCV0QAAAAJ&citpid=1" width="300" alt="Kendalem Asmare"></a> | PhD Candidate  | Investigating trends and risk of prenatal and early life exposures on child development in Australia |
 | **Bereket Kefale** <br/> <a href="https://scholar.google.com/citations?hl=en&user=auD3V2kAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=auD3V2kAAAAJ&citpid=3" width="300" alt="*Bereket Kefale"></a> | PhD Candidate  | Under-five mortality in the era of sustainable development goals in low- and middle-income countries: burden and trends |
@@ -32,8 +31,8 @@ Click on the photos to see the research profiles
 
 # Affiliations of research leaders
 
-Gavin Pereira <sup>1,2,3,4,5</sup> ORCID: <a href="https://orcid.org/0000-0003-3740-8117"></a> 
-Gizachew Tessema <sup>1,3,5,6</sup> ORCID: <a href="https://orcid.org/0000-0002-4784-8151"></a> 
+Gavin Pereira <sup>1,2,3,4,5</sup> <a href="https://orcid.org/0000-0003-3740-8117">ORCID</a> 
+Gizachew Tessema <sup>1,3,5,6</sup> <a href="https://orcid.org/0000-0002-4784-8151">ORCID</a> 
 
 1. Curtin School of Population Health, Faculty of Health Sciences, Curtin University, Perth, Australia.
 2. WHO Collaborating Centre for Climate Change and Health Impact Assessment, Perth, Australia.
