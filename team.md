@@ -1,4 +1,4 @@
->---
+---
 type: page
 title: "Team"
 ---
