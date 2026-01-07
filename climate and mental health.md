@@ -17,7 +17,7 @@ If all goes to plan, the findings will feed into a national research grant, sett
 
 In a world where climate change is often discussed in terms of rising seas and melting ice, this project is a reminder that the most profound impacts might be felt much closer to home—in the minds and lives of ordinary people.
 
-Project leads: [Prof Gavin Pereira](https://gavinfpereira.github.io/pereira lab), Dr Amrutu Nori-Sarma(https://hsph.harvard.edu/profile/amruta-a-nori-sarma/)
+Project leads: [Prof Gavin Pereira](https://gavinfpereira.github.io/pereira lab), [Dr Amrutu Nori-Sarma](https://hsph.harvard.edu/profile/amruta-a-nori-sarma/)
 
 Collaborators: Harvard T.H. Chan School of Public Health, Harvard University 
 
