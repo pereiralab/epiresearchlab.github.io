@@ -1,0 +1,15 @@
+
+---
+layout: page
+title: "Fetal Futures"
+---
+
+Australia has seen little movement in stillbirth rates, which have hovered around 7 per 1,000 births even though national efforts aim to cut this by 20 percent by 2025. Evidence suggests that 20 to 30 percent of stillbirths could be prevented with the right care, yet clinicians still lack reliable tools to identify pregnancies at greatest risk. Most existing risk models use only a narrow set of predictors, are rarely tested outside the settings where they were developed, and struggle to perform consistently across different communities, leaving substantial gaps in early detection. This national research program, funded through the MRFF, tackles those shortcomings by building advanced prediction tools for early and late gestation stillbirth, rigorously testing them for fairness in populations including Indigenous and culturally and linguistically diverse communities, and assessing how acceptable they are to both pregnant women and antenatal care providers. The team is using linked clinical data from NSW health districts covering more than 128,000 births from 2017 to 2024, drawing on predictors such as sociodemographic characteristics, chronic conditions, pregnancy complications, cervical length, and blood pressure, and applying methods including regularised logistic regression, decision trees, random forest, XGBoost, and multilayer perceptron neural networks. Early work using WA registry data from 947,025 live births and 5,788 stillbirths produced 63 percent sensitivity at 95 percent specificity with an AUC of 0.89 using XGBoost, while external validation in NSW achieved an AUC of 0.80 with a 95 percent confidence interval of 76.6 to 83.4, reinforcing the value of richer clinical inputs and systematic fairness checks. Consumers and clinicians are closely involved through workshops, advisory groups, and co-design activities to ensure the tools fit real clinical settings and meet ethical expectations, with collaboration across Curtin University, the University of Sydney, Nepean Hospital, the Royal Hospital for Women, and Kids Research Institute Australia. The ultimate goal is a risk stratification tool that improves care, reduces preventable stillbirths, supports shared decision making, and strengthens national guidance while building Australia’s capacity in equity focused health data science.
+
+Project lead: [Prof Gavin Pereira](https://gavinfpereira.github.io/pereira lab)
+
+Collaborators: Nepean Hospital NSW,, Royal Women's Hospital NSW, The Kids Institute, University of Sydney 
+
+**Publication(s)**
+* [Malacova, E., S. Tippaya, H. D. Bailey, K. Chai, B. M. Farrant, A. T. Gebremedhin, H. Leonard, M. L. Marinovich, N. Nassar, A. Phatak,  C. Raynes-Greenow, A.K. Regan, A.Shand, C.J. Shepherd, R. Srinivasjois, G.A. Tessema and G. Pereira. 2020. "Stillbirth risk prediction using machine learning for a large cohort of births from Western Australia, 1980–2015." Scientific Reports 10 (1): 5354-5354.](https://www.nature.com/articles/s41598-020-62210-9)
+
