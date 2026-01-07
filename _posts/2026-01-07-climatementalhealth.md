@@ -1,5 +1,5 @@
 ---
-title: "Western Australia’s Climate Challenge: Protecting Minds as Well as Bodies"
+title: "Western Australia’s climate challenge: protecting minds as well as bodies"
 layout: post
 mathjax: true
 categories: 
