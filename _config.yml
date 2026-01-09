@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto: gavin.f.pereira@curtin.edu.au"}
-  - {title: Github, icon: github, url: "https://github.com/pereiralab"}
+  - {title: Github, icon: github, url: "https://github.com/epiresearchlab"}
   - {title: LinkedIn, icon: linkedin, url: "https://au.linkedin.com/in/gavin-pereira-b3b6631b?trk=people-guest_people_search-card"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/GavinFPereira"} 
 
